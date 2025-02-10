@@ -14,17 +14,17 @@ Proyek ini mengimplementasikan **keamanan citra digital** menggunakan teknik **d
 ✔️ **Visualisasi Perbandingan** – Menampilkan gambar asli, gambar yang telah diberi watermark, dan hasil ekstraksi.  
 
 ## 🚀 Cara Menjalankan  
-### 1️⃣ **Clone Repository**  
+###  **Clone Repository**  
 ```bash
-git clone https://github.com/username/Digital-Watermarking-Spatial.git
-cd Digital-Watermarking-Spatial
+git clone https://github.com/muhamadazz/Digitalwatermarking-spatialDomain.git
+cd Digitalwatermarking-spatialDomain
 ```
 
-### 2️⃣ **Buka di Google Colab**  
-Unggah file **Digital_Watermarking.ipynb** ke Google Colab atau langsung buka melalui link berikut:  
+### 1️⃣ **Buka di Google Colab**  
+Unggah file **DigitalMarking_SpatialDomain.ipynb** ke Google Colab atau langsung buka melalui link berikut:  
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
-### 3️⃣ **Unggah Gambar dan Jalankan Notebook**  
+### 2️⃣ **Unggah Gambar dan Jalankan Notebook**  
 - Masukkan gambar yang akan diberi watermark.  
 - Tentukan watermark yang akan digunakan.  
 - Jalankan seluruh sel untuk menyisipkan dan mengekstraksi watermark.  
@@ -38,9 +38,9 @@ Unggah file **Digital_Watermarking.ipynb** ke Google Colab atau langsung buka me
 ## 🔬 Contoh Hasil  
 Berikut contoh gambar sebelum dan sesudah diberikan watermark:  
 
-| Gambar Asli | Gambar dengan Watermark | Hasil Ekstraksi |
+| Gambar Asli | Watermark | Hasil watermark |
 |-------------|----------------------|----------------|
-| ![Original](path/to/original.jpg) | ![Watermarked](path/to/watermarked.jpg) | ![Extracted](path/to/extracted.jpg) |
+| ![Original](image.jpg) | ![Watermark](watermark.png) | ![Extracted](image_with_watermark.png) |
 
 ## 🤝 Kontribusi  
 Jika ingin berkontribusi, silakan fork repository ini dan ajukan pull request!  
