@@ -45,13 +45,3 @@ Berikut contoh gambar sebelum dan sesudah diberikan watermark:
 ## 🤝 Kontribusi  
 Jika ingin berkontribusi, silakan fork repository ini dan ajukan pull request!  
 
-## 📜 Lisensi  
-Proyek ini menggunakan **MIT License**.  
-
----
-
-🚀 **Digital Watermarking dengan Spatial Domain** – Keamanan Citra Digital dengan Teknik Watermarking!
-```
-
----
-
