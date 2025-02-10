@@ -1,8 +1,3 @@
-Berikut adalah **README.md** yang menarik dan profesional untuk proyek **Digital Watermarking dengan Spatial Domain** yang kamu kembangkan.  
-
----
-
-```md
 # 🔒 Digital Watermarking dengan Spatial Domain  
 
 Proyek ini mengimplementasikan **keamanan citra digital** menggunakan teknik **digital watermarking** berbasis **spatial domain**. Dengan memanfaatkan metode ini, kita dapat menyisipkan tanda air (watermark) ke dalam gambar digital secara **halus**, **tahan terhadap serangan tertentu**, dan **mudah diekstraksi kembali**.  
@@ -60,4 +55,3 @@ Proyek ini menggunakan **MIT License**.
 
 ---
 
-README ini sudah mencakup deskripsi proyek, fitur utama, cara penggunaan, teknologi yang digunakan, dan contoh hasilnya. Kalau ada fitur tambahan, bisa kita perbarui sesuai kebutuhan. 😃
