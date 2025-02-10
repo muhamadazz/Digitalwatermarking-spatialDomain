@@ -40,7 +40,7 @@ Berikut contoh gambar sebelum dan sesudah diberikan watermark:
 
 | Gambar Asli | Watermark | Hasil watermark |
 |-------------|----------------------|----------------|
-| ![Original](image.jpg) | ![Watermark](watermark.png) | ![Extracted](image_with_watermark.png) |
+| ![Original](image.jpg) | ![Watermark](watermark.png) | ![Extracted](image_with_watermark(2).png) |
 
 ## 🤝 Kontribusi  
 Jika ingin berkontribusi, silakan fork repository ini dan ajukan pull request!  
